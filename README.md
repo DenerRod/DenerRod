@@ -6,22 +6,22 @@
 
 I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
 
-- 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on a educational platform. Keep an eye for it.
-- 🌱 I’m currently learning Node backend
-- 👯 I’m looking to collaborate on opensource and group projects.
+- 💻 Estudando programção | FullStack 
+- 🔭 Atualmente estudante da Trybe
+- 🌱 Skills: Front-end
+- 👯 Trabalhando com ativades relacionadas à desenvolvimento web.
 
- ## Connect with me:
+ ## Conecte comigo:
 
-[<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-[<img align="left" alt="Tamim Ehsan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="Dener Rodrigues Barrientos" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Dener Rodrigues Barrientos| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="d_ener | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br /> 
 
-## Languages
+## Languagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenerRod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
