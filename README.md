@@ -70,7 +70,6 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 ⭐️ From [TamimEhsan](https://github.com/TamimEhsan)
 
-[website]: https://tamimehsan.github.io/
-[instagram]: https://instagram.com/tamim.ehsan
-[facebook]: https://www.facebook.com/tamimul.ehsan.9/
-[codeforces]:https://codeforces.com/profile/TamimEhsan
+[website]: https://DenerRod.github.io/
+[instagram]: [https://instagram.com/tamim.ehsan](https://www.instagram.com/d_ener/)
+[facebook]: [https://www.facebook.com/tamimul.ehsan.9/](https://www.facebook.com/profile.php?id=100011769091071)
