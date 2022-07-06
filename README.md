@@ -69,7 +69,7 @@ Meu nome é Dener, e esses são minhas hard-skills e soft-skills que estou desen
 | <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Max Rank | 1651 <br />  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  | 1925 <br /> ![](https://img.shields.io/badge/-Candidate%20Master-a832a8?style=flat) | - | - |-->
 
 
-⭐️ From [Dener Rodrigues](https://github.com/TamimEhsan](https://github.com/DenerRod)
+⭐️ From [Dener Rodrigues](https://github.com/TamimEhsan]
 
 [website]: https://DenerRod.github.io/
 [instagram]: https://www.instagram.com/d_ener/
