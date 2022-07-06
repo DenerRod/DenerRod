@@ -4,8 +4,6 @@
 
 ### Hi there 👋
 
-[![Dener Rodrigues](https://github-readme-stats.vercel.app/api?username=DenerRod)](https://github.com/anuraghazra/github-readme-stats)
-
 I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
 
 - 💻 I ~like~ **love** coding
@@ -32,6 +30,8 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+
+[![Dener Rodrigues](https://github-readme-stats.vercel.app/api?username=DenerRod)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools:
 
