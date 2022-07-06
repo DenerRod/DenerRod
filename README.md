@@ -2,9 +2,9 @@
 [![HitCount](http://hits.dwyl.com/TamimEhsan/TamimEhsan.svg)](http://hits.dwyl.com/TamimEhsan/TamimEhsan)
  <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
 
-### Hi there 👋
+### Olá, seja bem-vindo! 👋
 
-I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
+Meu nome é Dener, e esses são minhas hard-skills e soft-skills que estou desenvolvendo
 
 - 💻 Estudando programção | FullStack 
 - 🔭 Atualmente estudante da Trybe
@@ -12,8 +12,9 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 - 👯 Trabalhando com ativades relacionadas à desenvolvimento web.
 
  ## Conecte comigo:
-
-[<img align="left" alt="Dener Rodrigues Barrientos" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+ 
+[<img align="left" alt="Dener Rodrigues Barrientos" width="22px" src="https://img.icons8.com/ios-glyphs/344/linkedin-circled--v1.png" />][linkedin]
+[<img align="left" alt="Dener" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Dener Rodrigues Barrientos| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="d_ener | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -73,3 +74,4 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 [website]: https://DenerRod.github.io/
 [instagram]: https://www.instagram.com/d_ener/
 [facebook]: https://www.facebook.com/profile.php?id=100011769091071
+[linkedin]: https://www.linkedin.com/in/dener-rodrigues-barrientos-634b421ba/
