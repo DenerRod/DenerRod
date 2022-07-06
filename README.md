@@ -16,7 +16,7 @@ Meu nome é Dener, e esses são minhas hard-skills e soft-skills que estou desen
 [<img align="left" alt="Dener" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Dener Rodrigues Barrientos| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="d_ener | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Dener Rodrigues Barrientos" width="22px" src="https://img.icons8.com/ios-filled/344/linkedin-circled--v1.png" />][linkedin]
+[<img align="left" alt="Dener Rodrigues Barrientos" width="25px" src="https://img.icons8.com/ios-filled/344/linkedin-circled--v1.png" />][linkedin]
 
 <br /> 
 
