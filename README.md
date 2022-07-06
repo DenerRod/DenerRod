@@ -68,8 +68,8 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 | <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Max Rank | 1651 <br />  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  | 1925 <br /> ![](https://img.shields.io/badge/-Candidate%20Master-a832a8?style=flat) | - | - |
 
 
-⭐️ From [TamimEhsan](https://github.com/TamimEhsan)
+⭐️ From [Dener Rodrigues](https://github.com/TamimEhsan](https://github.com/DenerRod)
 
 [website]: https://DenerRod.github.io/
-[instagram]: [https://instagram.com/tamim.ehsan](https://www.instagram.com/d_ener/)
+[instagram]: https://www.instagram.com/d_ener/
 [facebook]: https://www.facebook.com/profile.php?id=100011769091071
