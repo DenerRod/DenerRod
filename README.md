@@ -31,8 +31,7 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
-[![Dener Rodrigues](https://github-readme-stats.vercel.app/api?username=DenerRod)](https://github.com/anuraghazra/github-readme-stats)
-
+## Status de Atividades
 ![Dener Rodrigues](https://github-readme-stats.vercel.app/api?username=DenerRod&show_icons=true&theme=dark)
 
 ## Tools:
