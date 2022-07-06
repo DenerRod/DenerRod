@@ -33,6 +33,8 @@ I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim E
 
 [![Dener Rodrigues](https://github-readme-stats.vercel.app/api?username=DenerRod)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
