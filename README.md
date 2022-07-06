@@ -4,6 +4,8 @@
 
 ### Hi there 👋
 
+[![Dener Rodrigues](https://github-readme-stats.vercel.app/api?username=DenerRod)](https://github.com/anuraghazra/github-readme-stats)
+
 I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
 
 - 💻 I ~like~ **love** coding
