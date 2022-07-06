@@ -49,14 +49,14 @@ Meu nome é Dener, e esses são minhas hard-skills e soft-skills que estou desen
 
 [![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
 
-## Github Overview
+<!--## Github Overview
 
 <img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Projects that I contributed to
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanjinurIslam&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping) <br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShanjinurIslam&repo=BUET-CSE-Moodle-Web-Scraping&show_owner=true)](https://github.com/ShanjinurIslam/BUET-CSE-Moodle-Web-Scraping) <br /> 
 
 <!--## My Programming Performances
 
