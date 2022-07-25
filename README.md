@@ -1,5 +1,5 @@
 
-[![HitCount](http://hits.dwyl.com/TamimEhsan/TamimEhsan.svg)](http://hits.dwyl.com/TamimEhsan/TamimEhsan)
+[![HitCount](http://hits.dwyl.com/DenerRod/DenerRod.svg)](http://hits.dwyl.com/DenerRod/DenerRod)
  <img src="https://komarev.com/ghpvc/?username=DenerRod">
 
 ### Olá, seja bem-vindo! 👋
