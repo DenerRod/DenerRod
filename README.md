@@ -1,4 +1,3 @@
-<img src="https://create.vista.com/pt/user/projects/62e17cbd20ca265c85e70c4d/">
 [![HitCount](http://hits.dwyl.com/DenerRod/DenerRod.svg)](http://hits.dwyl.com/DenerRod/DenerRod)
  <img src="https://komarev.com/ghpvc/?username=DenerRod">
 
