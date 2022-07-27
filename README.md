@@ -1,4 +1,4 @@
-<img width="800" src="src/CoverGitHubProfile.jpeg">
+<img width="800" src="src/CoverProfileGitHub.jpeg">
 
 [![HitCount](http://hits.dwyl.com/DenerRod/DenerRod.svg)](http://hits.dwyl.com/DenerRod/DenerRod)
  <img src="https://komarev.com/ghpvc/?username=DenerRod">
