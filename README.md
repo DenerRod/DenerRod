@@ -75,4 +75,4 @@ Meu nome é Dener, e esses são minhas hard-skills e soft-skills que estou desen
 [website]: https://DenerRod.github.io/
 [instagram]: https://www.instagram.com/denerrod/
 [facebook]: https://www.facebook.com/profile.php?id=100011769091071
-[linkedin]: https://www.linkedin.com/in/dener-rodrigues-barrientos-634b421ba/
+[linkedin]: https://www.linkedin.com/in/dener-rodrigues-634b421ba/
