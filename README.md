@@ -1,4 +1,4 @@
-<img width="900" src="src/coverReadme.png">
+<img width="900" src="coverReadme_cropped.png">
 
 [![HitCount](http://hits.dwyl.com/DenerRod/DenerRod.svg)](http://hits.dwyl.com/DenerRod/DenerRod)
  <img src="https://komarev.com/ghpvc/?username=DenerRod">
