@@ -48,7 +48,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
  
  ### <h3> My Projects: <h3/>
- [<img width="300" src="src/githubpages.svg" />] [website]
+ 
+ [<img width="100" src="src/githubpages.svg" />] [website]
  
 
 <br /> 
