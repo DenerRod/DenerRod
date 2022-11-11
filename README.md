@@ -51,7 +51,7 @@
 
 ## Languagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenerRod&langs_count=8)](https://github.com/DenerRod/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenerRod&layout=compact)](https://github.com/DenerRod/github-readme-stats)
 
 
 ## Status de Atividades
