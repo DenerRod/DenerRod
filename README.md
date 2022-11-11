@@ -3,14 +3,11 @@
 [![HitCount](http://hits.dwyl.com/DenerRod/DenerRod.svg)](http://hits.dwyl.com/DenerRod/DenerRod)
  <img src="https://komarev.com/ghpvc/?username=DenerRod">
 
-### <h3>Olá, seja bem-vindo! 👋 </h3>
+### <h3>Hi, welcome to my profile ! 👋 </h3>
 
-Meu nome é Dener, e esses são minhas hard-skills e soft-skills que estou desenvolvendo
-
-- 💻 Estudando programção | FullStack 
-- 🔭 Atualmente estudante da Trybe
-- 🌱 Skills: Front-end
-- 👯 Trabalhando com ativades relacionadas à desenvolvimento web.
+- 💻 I'm programming | FullStack 
+- 📒 Studying web development - Trybe
+- 💼 Working with web development related projects | Profile
 
 <h4>Front-End:</h4>
 
@@ -19,7 +16,7 @@ Meu nome é Dener, e esses são minhas hard-skills e soft-skills que estou desen
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
- ## Conecte comigo:
+ ### <h3> Connect with me: <h3/>
  
 [<img align="left" alt="Dener" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Dener Rodrigues Barrientos| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
