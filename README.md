@@ -19,7 +19,7 @@
 
  ### <h3> Connect with me: <h3/>
  
-[<img align="left" alt="Dener" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -78,6 +78,7 @@
 ⭐️ From [Dener Rodrigues](https://github.com/DenerRod)
 
 [website]: https://denerrod.github.io/portifolio-denerrod/
+[gmail]: denerrodriguesbarrientos@gmail.com
 [instagram]: https://www.instagram.com/denerrod/
 [facebook]: https://www.facebook.com/profile.php?id=100011769091071
 [linkedin]: https://www.linkedin.com/in/dener-rodrigues-634b421ba/
