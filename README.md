@@ -44,7 +44,7 @@
  
 [![image](https://user-images.githubusercontent.com/99992178/201438266-af137ff7-0566-4c11-929e-20f41531adfa.png)][gmail]
 [![image](https://user-images.githubusercontent.com/99992178/201438203-a97f6e21-8e1b-40dc-a70c-801bd64ff645.png)][facebook]
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[![image](https://user-images.githubusercontent.com/99992178/201438424-554579b5-bf58-496a-97a5-a561f9f78e4f.png)][instagram]
 [![image](https://user-images.githubusercontent.com/99992178/201437989-046d7fd6-20b7-4be1-8974-b38b4a5b1f41.png)][linkedin]
  
  ### <h3> My Projects: <h3/>
