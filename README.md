@@ -1,4 +1,11 @@
-<img width="900" style="border-radius: 10px" src="src/asserts/ezgif.com-gif-maker.gif">
+<img id="coverGif" width="900" src="src/asserts/ezgif.com-gif-maker (1).gif">
+
+<style> 
+  #coverGif {
+    border-radius: 10px;
+  }
+
+</style>
 
 [![HitCount](http://hits.dwyl.com/DenerRod/DenerRod.svg)](http://hits.dwyl.com/DenerRod/DenerRod)
  <img src="https://komarev.com/ghpvc/?username=DenerRod">
