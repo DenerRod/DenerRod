@@ -49,7 +49,7 @@
  
  ### <h3> My Projects: <h3/>
  
- [<img width="100" src="src/githubpages.svg" />] [website]
+ [![image](https://user-images.githubusercontent.com/99992178/201438772-2195fea0-a52b-4b89-87b2-2a6e26891a13.png)][website]
  
 
 <br /> 
