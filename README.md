@@ -78,7 +78,7 @@
 ⭐️ From [Dener Rodrigues](https://github.com/DenerRod)
 
 [website]: https://denerrod.github.io/portifolio-denerrod/
-[gmail]: denerrodriguesbarrientos@gmail.com
+[gmail]: mailto:denerrodriguesbarrientos@gmail.com
 [instagram]: https://www.instagram.com/denerrod/
 [facebook]: https://www.facebook.com/profile.php?id=100011769091071
 [linkedin]: https://www.linkedin.com/in/dener-rodrigues-634b421ba/
