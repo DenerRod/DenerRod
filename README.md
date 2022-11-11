@@ -1,4 +1,4 @@
-<img width="900" src="src/asserts/ezgif.com-gif-maker (1).gif">
+<img width="900" src="src/NewCoverGitHub.png">
 
 [![HitCount](http://hits.dwyl.com/DenerRod/DenerRod.svg)](http://hits.dwyl.com/DenerRod/DenerRod)
  <img src="https://komarev.com/ghpvc/?username=DenerRod">
