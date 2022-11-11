@@ -12,6 +12,10 @@ Meu nome é Dener, e esses são minhas hard-skills e soft-skills que estou desen
 - 🌱 Skills: Front-end
 - 👯 Trabalhando com ativades relacionadas à desenvolvimento web.
 
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
  ## Conecte comigo:
  
 [<img align="left" alt="Dener" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
