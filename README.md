@@ -51,10 +51,11 @@
 
 ## Languagens
 
-![DenerRod's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenerRod&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenerRod&langs_count=8)](https://github.com/DenerRod/github-readme-stats)
 
 
 ## Status de Atividades
+ 
 ![Dener Rodrigues](https://github-readme-stats.vercel.app/api?username=DenerRod&show_icons=true&theme=dark)
 
 ## Ferramentas:
