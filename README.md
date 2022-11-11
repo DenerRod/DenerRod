@@ -42,7 +42,7 @@
 
  ### <h3> Connect with me: <h3/>
  
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[![image](https://user-images.githubusercontent.com/99992178/201438266-af137ff7-0566-4c11-929e-20f41531adfa.png)][gmail]
 [![image](https://user-images.githubusercontent.com/99992178/201438203-a97f6e21-8e1b-40dc-a70c-801bd64ff645.png)][facebook]
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [![image](https://user-images.githubusercontent.com/99992178/201437989-046d7fd6-20b7-4be1-8974-b38b4a5b1f41.png)][linkedin]
