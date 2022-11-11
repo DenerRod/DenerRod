@@ -45,7 +45,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
-![image](https://user-images.githubusercontent.com/99992178/201437989-046d7fd6-20b7-4be1-8974-b38b4a5b1f41.png)"[linkedin]
+[![image](https://user-images.githubusercontent.com/99992178/201437989-046d7fd6-20b7-4be1-8974-b38b4a5b1f41.png)][linkedin]
  
  ### <h3> My Projects: <h3/>
  
