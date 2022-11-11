@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.com/DenerRod/DenerRod.svg)](http://hits.dwyl.com/DenerRod/DenerRod)
  <img src="https://komarev.com/ghpvc/?username=DenerRod">
 
-### Olá, seja bem-vindo! 👋
+<h3>### Olá, seja bem-vindo! 👋 </h3>
 
 Meu nome é Dener, e esses são minhas hard-skills e soft-skills que estou desenvolvendo
 
@@ -12,7 +12,7 @@ Meu nome é Dener, e esses são minhas hard-skills e soft-skills que estou desen
 - 🌱 Skills: Front-end
 - 👯 Trabalhando com ativades relacionadas à desenvolvimento web.
 
-<h1>Front-End:</h1>
+<h4>Front-End:</h4>
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
